@@ -18,5 +18,6 @@
 - **🕹️GAME**
 - **🎥MOVIE**
 - **🧳TRAVEL**
-- 
+## **⭐My Stats⭐**
 ![trophy](https://github-profile-trophy.vercel.app/?username=Thedum2)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thedum2)](https://github.com/anuraghazra/github-readme-stats)
