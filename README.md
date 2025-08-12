@@ -80,11 +80,10 @@
 
 ---
 
-## 📊 아무짝에도 필요 없어 보이는 것들
 
 ### 부끄러운 현실
 <div align="center">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedum2)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thedum2&show_icons=true&theme=radical&hide_border=true&custom_title=부끄러운%20현실)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedum2&layout=compact&theme=radical&hide_border=true&custom_title=주로%20망치는%20언어들)
 
@@ -100,7 +99,6 @@
 ### 🌱잔디밭 (가끔 심음)
 <div align="center">
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=thedum2&theme=warm)
 
 *가뭄임ㅋ*
 
