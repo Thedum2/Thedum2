@@ -85,7 +85,7 @@
 ### 부끄러운 현실
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thedum2&show_icons=true&theme=radical&hide_border=true&custom_title=더듬이의%20참담한%20현실)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thedum2&show_icons=true&theme=radical&hide_border=true&custom_title=부끄러운%20현실)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thedum2&layout=compact&theme=radical&hide_border=true&custom_title=주로%20망치는%20언어들)
 
 </div>
