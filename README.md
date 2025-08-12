@@ -116,10 +116,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asdf74591@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
-
-</div>
