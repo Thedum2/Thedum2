@@ -57,8 +57,8 @@
 
 | 레포지토리 | 설명 | 상태 |
 |-----------|------|------|
-| [GalaShow_Admin](https://github.com/Thedum2/GalaShow_Admin) | 관리자 패널 | 🔥 50% |
-| [GalaShow_API](https://github.com/Thedum2/GalaShow_API) | 백엔드 API | 🔥 40% |
+| [GalaShow_Admin](https://github.com/Thedum2/GalaShow_Admin) | 관리자 패널 | 🔥 70% |
+| [GalaShow_API](https://github.com/Thedum2/GalaShow_API) | 백엔드 API | 🔥 70% |
 | [GalaShow_Client](https://github.com/Thedum2/GalaShow_Client) | 클라이언트 웹 | 🔥 25% |
 | [GalaShow_Unity](https://github.com/Thedum2/GalaShow_Unity) | 유니티 게임 | 🔥 10% |
 
