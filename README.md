@@ -85,7 +85,7 @@
 | [GalaShow_Admin](https://github.com/Thedum2/GalaShow_Admin) | 관리자 패널 | 🔥 95% |
 | [GalaShow_API](https://github.com/Thedum2/GalaShow_API) | 백엔드 API | 🔥95% |
 | [GalaShow_Client](https://github.com/Thedum2/GalaShow_Client) | 클라이언트 웹 | 🔥 60% |
-| [GalaShow_Unity](https://github.com/Thedum2/GalaShow_Unity) | 유니티 게임 | 🔥 35% |
+| [GalaShow_Unity](https://github.com/Thedum2/GalaShow_Unity) | 유니티 게임 | 🔥 45% |
 | [Poly_chat](https://github.com/Thedum2/Poly_chat) | 스트림 채팅 통합 어댑터 | 🔥 95% |
 
 **비고**: 기대좀 해주셈
